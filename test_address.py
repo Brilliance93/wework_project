@@ -8,7 +8,6 @@ import time
 import random
 from test_selenium.wework.address_page import AddressPage
 from test_selenium.wework.common import CommonMethod
-from test_selenium.wework.member_details_page import MemberDetailsPage
 from test_selenium.wework.ww_driver import WWDriver
 
 
