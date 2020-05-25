@@ -9,8 +9,8 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from test_selenium.wework.member_details_page import MemberDetailsPage
-from test_selenium.wework.ww_driver import WWDriver
+from wework.member_details_page import MemberDetailsPage
+from wework.ww_driver import WWDriver
 
 
 class AddressPage:

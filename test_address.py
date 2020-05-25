@@ -6,9 +6,9 @@
 """
 import time
 import random
-from test_selenium.wework.address_page import AddressPage
-from test_selenium.wework.common import CommonMethod
-from test_selenium.wework.ww_driver import WWDriver
+from wework.address_page import AddressPage
+from wework.common import CommonMethod
+from wework.ww_driver import WWDriver
 
 
 class TestAddress:
